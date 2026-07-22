@@ -1,0 +1,42 @@
+const projects = [
+  {
+    name: "500米口径球面射电望远镜",
+    shortName: "FAST",
+    field: "天文学 / 射电天文",
+    location: "贵州平塘",
+    lat: 25.652,
+    lng: 106.856,
+  },
+  {
+    name: "江门中微子实验观测站",
+    shortName: "JUNO",
+    field: "粒子物理 / 中微子探测",
+    location: "广东江门",
+    lat: 22.122,
+    lng: 112.518,
+  },
+  {
+    name: "高海拔宇宙线观测站",
+    shortName: "LHAASO",
+    field: "天体物理 / 宇宙线观测",
+    location: "四川稻城",
+    lat: 29.357,
+    lng: 100.138,
+  },
+  {
+    name: "中国散裂中子源",
+    shortName: "CSNS",
+    field: "材料科学 / 中子散射",
+    location: "广东东莞",
+    lat: 22.985,
+    lng: 113.744,
+  },
+  {
+    name: "全超导托卡马克核聚变实验装置",
+    shortName: "EAST",
+    field: "聚变能源 / 等离子体物理",
+    location: "安徽合肥",
+    lat: 31.822,
+    lng: 117.271,
+  },
+];
