@@ -287,4 +287,52 @@ const projects = [
     lat: 18.223,
     lng: 109.508,
   },
+    {
+  name: "National Major Science and Technology Infrastructure for Translational Medicine",
+  shortName: "TransMed",
+  field: "Biomedical Research / Translational Medicine",
+  coordinateType: "multi-site",
+  location: "China",
+  coordinates: {
+    lat: 35.0,
+    lng: 104.0,
+  },
+  sites: [
+    {
+      siteName: "Shanghai",
+      host: "Shanghai Jiao Tong University / Ruijin Hospital",
+      location: "Shanghai",
+      lat: 31.2304,
+      lng: 121.4737,
+    },
+    {
+      siteName: "Sichuan",
+      host: "Sichuan University / West China Hospital",
+      location: "Chengdu, Sichuan",
+      lat: 30.641,
+      lng: 104.066,
+    },
+    {
+      siteName: "Beijing (PUMCH)",
+      host: "Peking Union Medical College Hospital",
+      location: "Dongcheng District, Beijing",
+      lat: 39.908,
+      lng: 116.418,
+    },
+    {
+      siteName: "Beijing (PLAGH)",
+      host: "Chinese PLA General Hospital",
+      location: "Beijing",
+      lat: 39.907,
+      lng: 116.281,
+    },
+    {
+      siteName: "Xi'an",
+      host: "Air Force Medical University",
+      location: "Xi'an, Shaanxi",
+      lat: 34.265,
+      lng: 108.960,
+    },
+  ],
+}
 ];
